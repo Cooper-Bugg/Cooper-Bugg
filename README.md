@@ -1,6 +1,6 @@
 # Hey, I'm Cooper
 
-C++ developer building games, tools, and simulations from the ground up. I care about writing clean, hand-crafted code and understanding the systems underneath.
+C++ developer building tools and simulations from the ground up. I care about writing clean, hand-crafted code and understanding the systems underneath.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooper-huntington-bugg/)
 

@@ -64,4 +64,4 @@ A C++ physics project evolving from a CLI gravity calculator into a full orbital
 
 ---
 
-![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cooper-Bugg&show_icons=true&theme=default&hide_border=true)
+![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cooper-Bugg&show_icons=true&hide_border=true&count_private=true)

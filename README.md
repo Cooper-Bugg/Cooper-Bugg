@@ -62,6 +62,3 @@ A C++ physics project evolving from a CLI gravity calculator into a full orbital
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
----
-
-![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cooper-Bugg&show_icons=true&hide_border=true&count_private=true)

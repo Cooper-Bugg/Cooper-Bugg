@@ -19,7 +19,7 @@ An educational multiplayer party game for classrooms. Teachers host sessions, st
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
-### The Humanist Engineer (https://github.com/Cooper-Bugg/humanist-engineer.github.io)
+### [The Humanist Engineer](https://github.com/Cooper-Bugg/humanist-engineer)
 A self-built learning hub for systems programming, C++, ECE prep, Linux customization, books, documents, and project work. Includes a tiled dashboard, roadmap, chapter-by-chapter articles, project archive, owned library, curated links, document browser, local progress tracking, and Vim-style navigation. Existing C++ work is written by hand, with AI used only for site structure and HTML/CSS/JS assistance.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -45,7 +45,7 @@ A C++ physics project evolving from a CLI gravity calculator into a full orbital
 ---
 
 ### [Start Learning C++](https://github.com/Cooper-Bugg/Start-Learning-Cpp)
-43 C++ projects spanning CLI tools to systems programming, each tied to specific language concepts. Companion repo to The C++ Grind — language-agnostic blueprints with C++ as the reference implementation.
+43 C++ projects spanning CLI tools to systems programming, each tied to specific language concepts. Companion repo to The Humanist Engineer — language-agnostic blueprints with C++ as the reference implementation.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 

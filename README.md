@@ -19,9 +19,8 @@ An educational multiplayer party game for classrooms. Teachers host sessions, st
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
-
-### [The C++ Grind](https://github.com/Cooper-Bugg/TheCppGrind)
-A self-built learning platform for C++ and systems programming — live at [cooper-bugg.github.io/TheCppGrind](https://cooper-bugg.github.io/TheCppGrind/). Includes a roadmap, chapter-by-chapter articles, 43 projects, and progress tracking. All C++ written by hand, no AI-generated code.
+### The Humanist Engineer (https://github.com/Cooper-Bugg/humanist-engineer.github.io)
+A self-built learning hub for systems programming, C++, ECE prep, Linux customization, books, documents, and project work. Includes a tiled dashboard, roadmap, chapter-by-chapter articles, project archive, owned library, curated links, document browser, local progress tracking, and Vim-style navigation. Existing C++ work is written by hand, with AI used only for site structure and HTML/CSS/JS assistance.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
